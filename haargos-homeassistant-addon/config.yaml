@@ -1,0 +1,35 @@
+---
+name: Haargos
+description: |
+  Home Assistant monitoring and advanced analytics, alerts, and support.
+  Stay informed about your smart home's health and performance
+version: 1.1.33
+slug: haargos
+init: false
+boot: auto
+startup: services
+apparmor: true
+url: "https://haargos.com"
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
+options:
+  agent_token: ""
+  debug_mode: false
+schema:
+  agent_token: password
+  debug_mode: bool
+map:
+  - "config"
+
+codenotary: haargos@alorenc.me
+hassio_api: true
+homeassistant_api: true
+docker_api: false
+devices:
+  - "/var/run/docker.sock:/var/run/docker.sock"
+
+image: haargos/{arch}
