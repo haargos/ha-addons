@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.36] - 2023-11-28
+
+- Empty release
+
+### Changed
+
+- Changed addon output texts
+
 ## [1.1.35] - 2023-11-28
 
 ### Changed
