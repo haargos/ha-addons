@@ -3,7 +3,7 @@ name: Haargos
 description: |
   Home Assistant monitoring and advanced analytics, alerts, and support.
   Stay informed about your smart home's health and performance
-version: 0.0.2
+version: 1.2.1
 slug: haargos
 init: false
 boot: auto

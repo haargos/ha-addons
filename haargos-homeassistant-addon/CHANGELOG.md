@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.1] - 2023-12-07
+
+### Added
+
+- Adds support for linking to Zigbee devices, Automations, Scripts, Scenes and Logs from inside of an installation.
+
 ## [1.2.0] - 2023-12-07
 
 ### Added
@@ -39,6 +45,7 @@
 
 - Initial Haargos release
 
+[1.2.1]: https://github.com/haargos/ha-addons/compare/v1.2.0...v1.2.1
 [1.2.0]: https://github.com/haargos/ha-addons/compare/v1.1.36...v1.2.0
 [1.1.36]: https://github.com/haargos/ha-addons/compare/v1.1.35...v1.1.36
 [1.1.35]: https://github.com/haargos/ha-addons/compare/v1.1.34...v1.1.35
