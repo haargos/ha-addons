@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.3.0] - 2024-01-09
+
+### Added
+
+- Support for notifications and direct links to the HA instance
+- Direct links to ZHA, devices, automations, scenes, scripts and more
+
+### Fixed
+
+- Fixed occurences where observations were not sent to the server
+
 ## [1.2.1] - 2023-12-07
 
 ### Added
@@ -45,6 +56,7 @@
 
 - Initial Haargos release
 
+[1.3.0]: https://github.com/haargos/ha-addons/compare/v1.2.1...v1.3.0
 [1.2.1]: https://github.com/haargos/ha-addons/compare/v1.2.0...v1.2.1
 [1.2.0]: https://github.com/haargos/ha-addons/compare/v1.1.36...v1.2.0
 [1.1.36]: https://github.com/haargos/ha-addons/compare/v1.1.35...v1.1.36

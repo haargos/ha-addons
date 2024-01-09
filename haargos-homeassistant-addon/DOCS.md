@@ -35,6 +35,14 @@ The agent token required for the Haargos agent to authenticate \
 and communicate with the Haargos service.
 Grab it from your installation in [Haargos](https://haargos.com)
 
+### Option: `HA Access Token` (optional)
+
+Supplying a Home Assistant access token allows the agent to collect notifications from your system.
+
+### Option: `dev` (required)
+
+Use only if you are a Haargos tester.
+
 ## Support
 
 For questions and support:

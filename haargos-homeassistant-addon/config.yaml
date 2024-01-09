@@ -3,7 +3,7 @@ name: Haargos
 description: |
   Home Assistant monitoring and advanced analytics, alerts, and support.
   Stay informed about your smart home's health and performance
-version: 1.2.1
+version: 1.3.0
 slug: haargos
 init: false
 boot: auto
@@ -18,10 +18,14 @@ arch:
   - i386
 options:
   agent_token: ""
+  ha_access_token: ""
   debug_mode: false
+  dev: false
 schema:
   agent_token: password
+  ha_access_token: "str?"
   debug_mode: bool
+  dev: bool
 map:
   - "config"
 
