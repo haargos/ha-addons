@@ -4,18 +4,34 @@
 ![Project Stage][project-stage-shield]
 ![Project Maintenance][maintenance-shield]
 
-Advanced monitoring and analytics for Home Assistant, providing alerts, \
-insights, and support for your smart home setup.
+Advanced monitoring and analytics for Home Assistant, offering comprehensive \
+insights, control (coming soon) over add-ons, and enhanced user experience for your \
+smart home setup.
 
 ## About
 
-Haargos is designed to enhance your Home Assistant experience by \
-offering advanced monitoring and analytics capabilities. \
-It helps you stay informed about your smart home's health \
-and performance, with features like real-time monitoring, \
-alerts, and detailed analytics. Haargos is easy to integrate \
-and use within your Home Assistant environment, empowering \
-you to keep your smart home running efficiently.
+Haargos has evolved to be more than just a monitoring tool for Home Assistant. \
+It now encompasses a wide range of features aimed at providing a complete \
+overview and control over your Home Assistant environment. Key features include:
+
+- **Real-Time Monitoring:** Keep track of your Home Assistant entities \
+such as addons, notifications, logs, zigbee devices and more, \
+and the host's CPU, memory, \storage, and network status in real-time.
+- **Add-on Management:** View and manage your Home Assistant add-ons directly \
+from Haargos. Monitor their status, update them, or troubleshoot issues as they arise.
+- **Alerts and Notifications (coming soon):** Stay informed with customized alerts and \
+notifications for critical events or changes in your Home Assistant environment.
+- **Detailed Analytics:** Dive deep into your Home Assistant setup with \
+analytics on performance, usage patterns, and more.
+- **User-Centric Control:** Haargos respects your privacy and control. \
+Analyze your setup and configure system settings only with your explicit consent.
+- **Seamless Integration:** Designed to integrate smoothly with your \
+existing Home Assistant setup, enhancing your smart home experience without \
+intruding on it.
+
+Haargos is dedicated to improving the functionality and usability of \
+Home Assistant, providing you with a powerful tool to keep your \
+smart home optimized and secure.
 
 ## Disclaimer
 
