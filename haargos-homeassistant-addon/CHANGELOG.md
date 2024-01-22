@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0] - 2024-01-22
+
+### Added
+
+- Support for Supervisor & os data
+- QoL enhancements
+
 ## [1.4.0] - 2024-01-16
 
 ### Added
@@ -63,6 +70,7 @@
 
 - Initial Haargos release
 
+[1.4.0]: https://github.com/haargos/ha-addons/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/haargos/ha-addons/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/haargos/ha-addons/compare/v1.2.1...v1.3.0
 [1.2.1]: https://github.com/haargos/ha-addons/compare/v1.2.0...v1.2.1
