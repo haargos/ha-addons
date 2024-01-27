@@ -50,7 +50,7 @@ This software is provided 'as-is', without any express or implied warranty. In n
 [addon-haargos]: https://github.com/haargos/ha-addons/tree/master/haargos-homeassistant-addon
 [addon-doc-haargos]: https://github.com/haargos/ha-addons/blob/master/haargos-homeassistant-addon/DOCS.md
 [haargos-issue]: https://github.com/haargos/ha-addons/issues
-[haargos-version-shield]: https://img.shields.io/badge/version-v1.0.36-blue.svg
+[haargos-version-shield]: https://img.shields.io/badge/version-v1.6.0-blue.svg
 [haargos-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [haargos-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [haargos-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

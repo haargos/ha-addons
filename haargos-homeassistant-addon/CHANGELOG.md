@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.6.0] - 2024-01-27
+
+### Added
+
+- Remote job execution: addons (start, stop, uninstall, update, restart), supervisor (update, restart, repair, reload), core (start, stop, restart, update), host (reboot, shutdown)
+
 ## [1.5.0] - 2024-01-22
 
 ### Added
