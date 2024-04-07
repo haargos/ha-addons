@@ -48,4 +48,4 @@ Use only if you are a Haargos tester.
 For questions and support:
 
 - Visit the [Haargos website](https://haargos.com).
-- For bug reports, please [open an issue on our GitHub][https://github.com/haargos/ha-addons].
+- For bug reports, please [open an issue on our GitHub](https://github.com/haargos/ha-addons).

@@ -3,7 +3,7 @@ name: Haargos
 description: |
   Monitoring and advanced analytics, alerts, and support.
   Stay informed about your smart home's health and performance.
-version: 1.6.0
+version: 1.7.0
 slug: haargos
 init: false
 boot: auto

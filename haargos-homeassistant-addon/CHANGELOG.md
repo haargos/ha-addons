@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.7.0] - 2024-04-07
+
+### Added
+
+- Alarms: you can now set up alarms via the Haargos installation dashboard to warn about your installation's outstanding parameters. You can now set up alarms for your Zigbee devices, ping to the frontend, host, add-on and log metrics.
+
 ## [1.6.0] - 2024-01-27
 
 ### Added
@@ -77,7 +83,6 @@
 - Initial Haargos release
 
 [1.4.0]: https://github.com/haargos/ha-addons/compare/v1.4.0...v1.5.0
-[1.4.0]: https://github.com/haargos/ha-addons/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/haargos/ha-addons/compare/v1.2.1...v1.3.0
 [1.2.1]: https://github.com/haargos/ha-addons/compare/v1.2.0...v1.2.1
 [1.2.0]: https://github.com/haargos/ha-addons/compare/v1.1.36...v1.2.0

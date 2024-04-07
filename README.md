@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This repository brings you Haargos, a unique add-on designed to enhance the functionality of Home Assistant with sophisticated monitoring and analytics capabilities. Our aim is to provide Home Assistant enthusiasts with tools that empower them to keep their smart home systems running optimally.
+This repository brings you Haargos, a unique add-on designed to enhance the functionality of Home Assistant with  monitoring, alarm and analytics capabilities. Our aim is to provide Home Assistant administrators with tools that empower them to keep their smart home systems running optimally.
 
 ## Simple Integration
 
@@ -39,7 +39,7 @@ General inquiries or suggestions for new add-ons can be submitted [here][issue].
 
 ## Licensing
 
-Copyright © 2023 Aleksander Lorenc
+Copyright © 2024 Aleksander Lorenc
 
 This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software. Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:
 
@@ -50,14 +50,14 @@ This software is provided 'as-is', without any express or implied warranty. In n
 [addon-haargos]: https://github.com/haargos/ha-addons/tree/master/haargos-homeassistant-addon
 [addon-doc-haargos]: https://github.com/haargos/ha-addons/blob/master/haargos-homeassistant-addon/DOCS.md
 [haargos-issue]: https://github.com/haargos/ha-addons/issues
-[haargos-version-shield]: https://img.shields.io/badge/version-v1.6.0-blue.svg
+[haargos-version-shield]: https://img.shields.io/badge/version-v1.7.0-blue.svg
 [haargos-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [haargos-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [haargos-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [haargos-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [haargos-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [issue]: https://github.com/haargos/ha-addons/issues
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [releases-shield]: https://img.shields.io/github/v/release/haargos/haargos-homeassistant-addon?include_prereleases
 [releases]: https://github.com/haargos/haargos-homeassistant-addon/releases
